@@ -1,0 +1,28 @@
+PODS:
+  - Fleet (4.3.0)
+  - Nimble (8.0.5)
+  - Quick (2.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Fleet
+  - Nimble
+  - Quick
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Fleet
+    - Nimble
+    - Quick
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Fleet: 5efad25e84f0a575dd87fe10133d6b472873b9ad
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: d961633c1b186d80b96d2067c0d0a0de1a42ceef
+
+COCOAPODS: 1.6.0
